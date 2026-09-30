@@ -19,13 +19,13 @@ and turning ideas into something I can actually use.
 
 </div>---
 
-🧑‍💻 A little about me
+ A little about me:
 
-🎓  Computer Science student
-🌐  Interested in web development
-💡  Learning by building projects
-🛠️  Exploring different programming languages
-🚀  Always working on something new
+•Computer Science student.
+•Interested in web development.
+•Learning by building projects.
+•Exploring different programming languages.
+•Always working on something new.
 
 I don't try to know everything — I prefer learning one thing at a time,
 building with it, and improving through practice.
@@ -46,7 +46,7 @@ building with it, and improving through practice.
 🚀 Things I've built
 
 <div align="center"><table>
-<tr><td width="50%" valign="top">🌐 Hazeem Portfolio
+<tr><td width="50%" valign="top">Portfolio
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -71,5 +71,5 @@ An interactive energy comparison project exploring conventional and eco-friendly
 <a href="https://mhazeemshafi.github.io/Ec0Watt/">
 <img src="https://img.shields.io/badge/EXPLORE%20ECOWATT-06B6D4?style=for-the-badge&logo=leaf&logoColor=white"/>
 </a></td></tr>
-</table></div>---
+</table></div>
 
