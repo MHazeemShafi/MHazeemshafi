@@ -73,18 +73,3 @@ An interactive energy comparison project exploring conventional and eco-friendly
 </a></td></tr>
 </table></div>---
 
-🌱 Currently learning
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=600&lines=Python;Java;C;JavaScript;Building+better+web+projects" alt="Currently learning" /></div>---
-
-📊 GitHub
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MHazeemshafi&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=4F46E5&text_color=555555&icon_color=06B6D4" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHazeemshafi&layout=compact&hide_border=true&bg_color=ffffff00&title_color=4F46E5&text_color=555555" width="40%"/></div>---
-
-<div align="center">💭
-
-«Build something. Break something. Learn something.»
-
-<br><a href="https://mhazeemshafi.github.io/HazeemPortfolio/">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a></div><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:4F46E5&height=120&section=footer" width="100%"/>
