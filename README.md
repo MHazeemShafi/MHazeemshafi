@@ -43,26 +43,6 @@ building with it, and improving through practice.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></div>---
 
-🚀 Things I've built
-
-<div align="center"><table>
-<tr><td width="50%" valign="top">Portfolio
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><br>
-
-My personal portfolio website where I showcase my work, background and projects.
-
-<br><br>
-
-<a href="https://mhazeemshafi.github.io/HazeemPortfolio/">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a></td><td width="50%" valign="top">⚡ EcoWatt
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><br>
 
 An interactive energy comparison project exploring conventional and eco-friendly energy usage.
 
