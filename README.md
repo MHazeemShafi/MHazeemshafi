@@ -1,74 +1,90 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:242424&height=200&section=header&text=MHazeemshafi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer&descAlignY=60&animation=fadeIn" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+things+with+code;Learning+by+building;Web+Development+%7C+Programming;Turning+ideas+into+projects" alt="Typing SVG" /><br><br>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:06B6D4&height=210&section=header&text=MHazeemshafi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer&descAlignY=62&animation=fadeIn" width="100%"/><br><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&width=650&lines=Building+things+with+code;Learning+by+building;Web+Development+%7C+Programming;Turning+ideas+into+projects" alt="Typing SVG" />
+</a><br><br>
 
-<a href="https://github.com/MHazeemshafi">
-<img src="https://img.shields.io/badge/GitHub-MHazeemshafi-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://mhazeemshafi.github.io/HazeemPortfolio/">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-<a href="https://Mhazeemshafi.github.io/HazeemProfile/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/MHazeemshafi">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a></div>---
 
-"> whoami"
+<div align="center">Hello, I'm Hazeem 👋
 
-Name        : Mohammed Hazeem Shafi
-Role        : Computer Science Student
-Interests   : Web Development · Programming
-Approach    : Learn → Build → Improve
+Computer Science student • Developer • Builder
 
-I enjoy learning through hands-on projects and experimenting with different ideas using code.
-
-Currently building my skills across web development and programming.
-
----
-
-"> languages"
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" /></div><p align="center">
-HTML · CSS · JavaScript · Python · Java · C
-</p>---
-
-"> projects"
-
-<div align="center"><table>
-<tr><td width="50%" valign="top"><h3>🌐 Portfolio</h3>My personal developer portfolio, built from scratch to showcase my work and projects.
-
-<br><code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-
-<br><br>
-
-<a href="https://MHazeemshafi.github.io/HazeemProfile/">
-<b>↗ Live Portfolio</b>
-</a></td><td width="50%" valign="top"><h3>⚡ EcoWatt</h3>An HTML project focused on exploring ideas around energy and electricity.
-
-<br><code>HTML</code>
-
-<br><br>
-
-<a href="https://github.com/MHazeemshafi">
-<b>↗ View on GitHub</b>
-</a></td></tr>
-</table></div>---
-
-"> currently"
-
-<div align="center">╭────────────────────────────────────────────╮
-│                                            │
-│  LEARNING   →  Python · Java · C            │
-│  BUILDING   →  Web & personal projects      │
-│  EXPLORING  →  New ideas through code      │
-│  IMPROVING  →  One project at a time       │
-│                                            │
-╰────────────────────────────────────────────╯
+I enjoy learning through projects, experimenting with code,
+and turning ideas into something I can actually use.
 
 </div>---
 
-"> github activity"
+🧑‍💻 A little about me
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MHazeemshafi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" width="48%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=MHazeemshafi&hide_border=true&theme=transparent" width="48%"/></div><br><div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MHazeemshafi&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&hide_border=true" width="95%"/></div>---
+🎓  Computer Science student
+🌐  Interested in web development
+💡  Learning by building projects
+🛠️  Exploring different programming languages
+🚀  Always working on something new
 
-"> connect"
+I don't try to know everything — I prefer learning one thing at a time,
+building with it, and improving through practice.
 
-<div align="center"><a href="https://github.com/MHazeemshafi">
-<img src="https://img.shields.io/badge/GitHub-MHazeemshafi-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://Mhazeemshafi.github.io/HazeemProfile/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a></div><br><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:0f0f0f&height=100&section=footer" width="100%"/></div>
+---
+
+🧰 Languages I use
+
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" height="55"/><br><br>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></div>---
+
+🚀 Things I've built
+
+<div align="center"><table>
+<tr><td width="50%" valign="top">🌐 Hazeem Portfolio
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><br>
+
+My personal portfolio website where I showcase my work, background and projects.
+
+<br><br>
+
+<a href="https://mhazeemshafi.github.io/HazeemPortfolio/">
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a></td><td width="50%" valign="top">⚡ EcoWatt
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><br>
+
+An interactive energy comparison project exploring conventional and eco-friendly energy usage.
+
+<br><br>
+
+<a href="https://mhazeemshafi.github.io/Ec0Watt/">
+<img src="https://img.shields.io/badge/EXPLORE%20ECOWATT-06B6D4?style=for-the-badge&logo=leaf&logoColor=white"/>
+</a></td></tr>
+</table></div>---
+
+🌱 Currently learning
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=600&lines=Python;Java;C;JavaScript;Building+better+web+projects" alt="Currently learning" /></div>---
+
+📊 GitHub
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MHazeemshafi&show_icons=true&hide_border=true&rank_icon=github&bg_color=ffffff00&title_color=4F46E5&text_color=555555&icon_color=06B6D4" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHazeemshafi&layout=compact&hide_border=true&bg_color=ffffff00&title_color=4F46E5&text_color=555555" width="40%"/></div>---
+
+<div align="center">💭
+
+«Build something. Break something. Learn something.»
+
+<br><a href="https://mhazeemshafi.github.io/HazeemPortfolio/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a></div><br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:4F46E5&height=120&section=footer" width="100%"/>
