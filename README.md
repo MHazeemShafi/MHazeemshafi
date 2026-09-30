@@ -44,12 +44,3 @@ building with it, and improving through practice.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></div>---
 
 
-An interactive energy comparison project exploring conventional and eco-friendly energy usage.
-
-<br><br>
-
-<a href="https://mhazeemshafi.github.io/Ec0Watt/">
-<img src="https://img.shields.io/badge/EXPLORE%20ECOWATT-06B6D4?style=for-the-badge&logo=leaf&logoColor=white"/>
-</a></td></tr>
-</table></div>
-
