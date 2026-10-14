@@ -68,6 +68,22 @@ MINDSET    : Learn -> Build -> Test -> Improve
       <a href="https://mhazeemshafi.github.io/github-profile-analyzer/">Live demo</a> · <a href="https://github.com/MHazeemShafi/github-profile-analyzer">Repository</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://mhazeemshafi.github.io/HazeemPortfolioV2/">Zephyrus Portfolio</a></h3>
+      <p><strong>Terminal-inspired developer portfolio</strong></p>
+      <p>A personal portfolio with a Matrix-influenced terminal aesthetic, showcasing projects, technical interests, and development work.</p>
+      <p><sub>React · Vite · JavaScript · CSS</sub></p>
+      <a href="https://mhazeemshafi.github.io/HazeemPortfolioV2/">Live site</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MHazeemshafi/NexSight">NexSight</a></h3>
+      <p><strong>Real-time visual intelligence</strong></p>
+      <p>A Python desktop computer-vision app for YOLO object detection, tracking, webcam/image/video input, detection logs, snapshots, CSV export, and optional local face recognition.</p>
+      <p><sub>Python · OpenCV · Ultralytics YOLO · PySide6 · NumPy</sub></p>
+      <a href="https://github.com/MHazeemshafi/NexSight">Repository</a>
+    </td>
+  </tr>
 </table>
 
 <sub>Project metrics and dashboard figures may be illustrative where noted in the individual project documentation.</sub>
@@ -97,6 +113,10 @@ MINDSET    : Learn -> Build -> Test -> Improve
   <img src="https://img.shields.io/badge/SVG-17212A?style=flat-square&logo=svg&logoColor=FFB13B" alt="SVG"/>
   <img src="https://img.shields.io/badge/JSZip-17212A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JSZip"/>
   <img src="https://img.shields.io/badge/GitHub_REST_API-17212A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub REST API"/>
+  <img src="https://img.shields.io/badge/OpenCV-17212A?style=flat-square&logo=opencv&logoColor=5C9E31" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Ultralytics_YOLO-17212A?style=flat-square&logoColor=00FF66" alt="Ultralytics YOLO"/>
+  <img src="https://img.shields.io/badge/PySide6-17212A?style=flat-square&logo=qt&logoColor=41CD52" alt="PySide6"/>
+  <img src="https://img.shields.io/badge/NumPy-17212A?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
 </div>
 
 ### Databases
