@@ -40,16 +40,14 @@ MINDSET    : Learn -> Build -> Test -> Improve
     <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/Ec0Watt/">Ec0Watt</a></h3>
       <p><strong>Energy comparison dashboard</strong></p>
-      <p>An interactive demonstration comparing household energy scenarios, estimated costs, consumption, and CO₂ emissions.</p>
+      <p>Explore household energy scenarios with estimated costs, consumption, and CO₂ emissions in an interactive dashboard.</p>
       <p><sub>HTML5 · CSS3 · JavaScript · SVG</sub></p>
       <a href="https://mhazeemshafi.github.io/Ec0Watt/">Live site</a> · <a href="https://github.com/MHazeemShafi/Ec0Watt">Repository</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/PixelShrink/">PixelShrink</a></h3>
       <p><strong>Browser-based image utility</strong></p>
-      <p>Resize and compress images in the browser, adjust export quality, and download results individually or as a ZIP archive.</p>
+      <p>Resize and compress images, adjust export quality, and download individual results or a ZIP archive directly from the browser.</p>
       <p><sub>JavaScript · Vite · Canvas API · JSZip · CSS</sub></p>
       <a href="https://mhazeemshafi.github.io/PixelShrink/">Live demo</a> · <a href="https://github.com/MHazeemShafi/PixelShrink">Repository</a>
     </td>
@@ -57,15 +55,15 @@ MINDSET    : Learn -> Build -> Test -> Improve
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MHazeemShafi/MovieDB">MovieDB</a></h3>
-      <p><strong>Relational database design project</strong></p>
-      <p>A SQL database for organizing movies, directors, actors, genres, and ratings, with sample data and practice queries for joins and aggregation.</p>
-      <p><sub>SQL · MySQL · Relational Database Design</sub></p>
+      <p><strong>Relational database design</strong></p>
+      <p>A MySQL database for movies, directors, actors, genres, and ratings, with sample records and queries for joins and aggregation.</p>
+      <p><sub>SQL · MySQL · Database Design</sub></p>
       <a href="https://github.com/MHazeemShafi/MovieDB">Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/github-profile-analyzer/">LvlUpGit — GitHub Profile Analyzer</a></h3>
-      <p><strong>Game-inspired developer profile analyzer</strong></p>
-      <p>A game-inspired interface that retrieves public GitHub profile and repository data and presents it as a profile score, level, rank, and repository overview.</p>
+      <p><strong>Gamified developer profile analyzer</strong></p>
+      <p>Turns public GitHub profile and repository data into a game-inspired overview with a score, level, rank, and repository insights.</p>
       <p><sub>React · TypeScript · Vite · Tailwind CSS · GitHub REST API</sub></p>
       <a href="https://mhazeemshafi.github.io/github-profile-analyzer/">Live demo</a> · <a href="https://github.com/MHazeemShafi/github-profile-analyzer">Repository</a>
     </td>
