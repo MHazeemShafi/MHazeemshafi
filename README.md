@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,45:0B2417,100:1D6B3A&height=190&section=header&text=M.%20Hazeem%20Shafi&fontSize=42&fontColor=E8FFF0&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20WEB%20DEVELOPMENT%20%7C%20SOFTWARE%20PROJECTS&descSize=13&descAlignY=61&animation=fadeIn" alt="Hazeem Shafi — Matrix-inspired profile header"/>
 
 <p>
-  <a href="https://mhazeemshafi.github.io/HazeemPortfolio/"><img src="https://img.shields.io/badge/Portfolio-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Portfolio"/></a>
+  <a href="https://mhazeemshafi.github.io/HazeemPortfolioV2/"><img src="https://img.shields.io/badge/Zephyrus-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Zephyrus"/></a>
   <a href="https://github.com/MHazeemshafi"><img src="https://img.shields.io/badge/GitHub-101914?style=for-the-badge&logo=github&logoColor=D9FFE5" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/LinkedIn-163D28?style=for-the-badge&logo=linkedin&logoColor=D9FFE5" alt="LinkedIn"/></a>
 </p>
@@ -38,12 +38,6 @@ MINDSET    : Learn -> Build -> Test -> Improve
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://mhazeemshafi.github.io/HazeemPortfolio/">HazeemPortfolio</a></h3>
-      <p><strong>Personal developer portfolio</strong></p>
-      <p>A portfolio experience influenced by the Matrix, with a dark interface, animated digital rain, and terminal-inspired details.</p>
-      <p><sub>React · JavaScript · HTML · CSS · Vite</sub></p>
-      <a href="https://mhazeemshafi.github.io/HazeemPortfolio/">Live site</a> · <a href="https://github.com/MHazeemShafi/HazeemPortfolioV2">Repository</a>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/Ec0Watt/">Ec0Watt</a></h3>
       <p><strong>Energy comparison dashboard</strong></p>
@@ -59,13 +53,6 @@ MINDSET    : Learn -> Build -> Test -> Improve
       <p>Resize and compress images in the browser, adjust export quality, and download results individually or as a ZIP archive.</p>
       <p><sub>JavaScript · Vite · Canvas API · JSZip · CSS</sub></p>
       <a href="https://mhazeemshafi.github.io/PixelShrink/">Live demo</a> · <a href="https://github.com/MHazeemShafi/PixelShrink">Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://snan-grocery.netlify.app/">Snan Grocery</a></h3>
-      <p><strong>Neighbourhood grocery website</strong></p>
-      <p>A responsive storefront concept designed to make store information and customer contact options easy to find.</p>
-      <p><sub>HTML · CSS · JavaScript · Responsive design</sub></p>
-      <a href="https://snan-grocery.netlify.app/">Live site</a> · <a href="https://github.com/MHazeemShafi/snan">Repository</a>
     </td>
   </tr>
   <tr>
@@ -146,7 +133,7 @@ I'm open to connecting with developers, learning from other builders, and explor
 
 <div align="center">
 
-<a href="https://mhazeemshafi.github.io/HazeemPortfolio/"><img src="https://img.shields.io/badge/Explore_my_work-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Explore portfolio"/></a>
+<a href="https://mhazeemshafi.github.io/HazeemPortfolioV2/"><img src="https://img.shields.io/badge/Explore_Zephyrus-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Explore Zephyrus"/></a>
 <a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-163D28?style=for-the-badge&logo=linkedin&logoColor=D9FFE5" alt="LinkedIn"/></a>
 
 <br/><br/>
