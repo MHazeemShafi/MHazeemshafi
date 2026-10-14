@@ -104,7 +104,6 @@ MINDSET    : Learn -> Build -> Test -> Improve
   <img src="https://img.shields.io/badge/VS_Code-222222?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
 </div>
 
-<sub>Stack selection reflects the technologies documented in my projects and the programming languages I work with. Tools listed are not a claim of expert-level proficiency.</sub>
 
 ## `03` / What I'm developing
 
@@ -112,19 +111,6 @@ MINDSET    : Learn -> Build -> Test -> Improve
 - **JavaScript and TypeScript:** improving application logic, state handling, and API-driven experiences.
 - **Programming fundamentals:** strengthening problem-solving with C, Java, and Python.
 - **Machine learning:** exploring the foundations and looking for practical projects to learn through.
-
-## `04` / GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHazeemshafi&show_icons=true&hide_border=true&bg_color=0B120E&title_color=8BE9A8&text_color=D8E7DC&icon_color=65D98B" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHazeemshafi&layout=compact&hide_border=true&bg_color=0B120E&title_color=8BE9A8&text_color=D8E7DC" alt="Most-used languages across public repositories"/>
-
-<br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHazeemshafi&bg_color=0B120E&color=D8E7DC&line=65D98B&point=8BE9A8&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
 
 ## `05` / Connect
 
