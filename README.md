@@ -1,162 +1,158 @@
-<!-- MATRIX / TERMINAL PROFILE -->
+<!--
+  MHazeemshafi | GitHub Profile README
+  Visual direction: professional Matrix / terminal aesthetic
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,35:052e16,70:008f11,100:00ff41&height=210&section=header&text=MHazeemshafi&fontSize=52&fontColor=00FF41&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%2F%2F%20DEVELOPER&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Matrix green profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,45:0B2417,100:1D6B3A&height=190&section=header&text=M.%20Hazeem%20Shafi&fontSize=42&fontColor=E8FFF0&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20WEB%20DEVELOPMENT%20%7C%20SOFTWARE%20PROJECTS&descSize=13&descAlignY=61&animation=fadeIn" alt="Hazeem Shafi — Matrix-inspired profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami%3A+Hazeem;%3E+Learning+by+building+real+projects;%3E+Web+development+%7C+Programming+%7C+ML;%3E+system.status%3D%22always+evolving%22_" alt="Animated terminal introduction"/>
+<p>
+  <a href="https://mhazeemshafi.github.io/HazeemPortfolio/"><img src="https://img.shields.io/badge/Portfolio-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Portfolio"/></a>
+  <a href="https://github.com/MHazeemshafi"><img src="https://img.shields.io/badge/GitHub-101914?style=for-the-badge&logo=github&logoColor=D9FFE5" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/LinkedIn-163D28?style=for-the-badge&logo=linkedin&logoColor=D9FFE5" alt="LinkedIn"/></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=8BE9A8&center=true&vCenter=true&width=620&lines=%24+building+projects+that+solve+real+problems;%24+learning+by+shipping+and+iterating;%24+curious+about+the+web+and+machine+learning" alt="Terminal-style introduction"/>
+
+</div>
+
+---
+
+## `whoami`
+
+I'm a Computer Science student at **Pace Institute of Technology & Sciences** with an interest in web development, software engineering, and machine learning.
+
+I enjoy taking an idea from a rough concept to a working project — shaping the interface, writing the logic, testing the experience, and refining the details. My projects are where I practise new tools and build a stronger foundation in software development.
+
+```text
+USER       : MHazeemshafi
+EDUCATION  : Computer Science
+GRADUATION : 2029
+INTERESTS  : Web applications · UI/UX · Machine learning
+MINDSET    : Learn -> Build -> Test -> Improve
+```
+
+## `01` / Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://mhazeemshafi.github.io/HazeemPortfolio/">HazeemPortfolio</a></h3>
+      <p><strong>Personal developer portfolio</strong></p>
+      <p>A portfolio experience influenced by the Matrix, with a dark interface, animated digital rain, and terminal-inspired details.</p>
+      <p><sub>React · JavaScript · HTML · CSS · Vite</sub></p>
+      <a href="https://mhazeemshafi.github.io/HazeemPortfolio/">Live site</a> · <a href="https://github.com/MHazeemShafi/HazeemPortfolioV2">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://mhazeemshafi.github.io/Ec0Watt/">Ec0Watt</a></h3>
+      <p><strong>Energy comparison dashboard</strong></p>
+      <p>An interactive demonstration comparing household energy scenarios, estimated costs, consumption, and CO₂ emissions.</p>
+      <p><sub>HTML5 · CSS3 · JavaScript · SVG</sub></p>
+      <a href="https://mhazeemshafi.github.io/Ec0Watt/">Live site</a> · <a href="https://github.com/MHazeemShafi/Ec0Watt">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://mhazeemshafi.github.io/PixelShrink/">PixelShrink</a></h3>
+      <p><strong>Browser-based image utility</strong></p>
+      <p>Resize and compress images in the browser, adjust export quality, and download results individually or as a ZIP archive.</p>
+      <p><sub>JavaScript · Vite · Canvas API · JSZip · CSS</sub></p>
+      <a href="https://mhazeemshafi.github.io/PixelShrink/">Live demo</a> · <a href="https://github.com/MHazeemShafi/PixelShrink">Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://snan-grocery.netlify.app/">Snan Grocery</a></h3>
+      <p><strong>Neighbourhood grocery website</strong></p>
+      <p>A responsive storefront concept designed to make store information and customer contact options easy to find.</p>
+      <p><sub>HTML · CSS · JavaScript · Responsive design</sub></p>
+      <a href="https://snan-grocery.netlify.app/">Live site</a> · <a href="https://github.com/MHazeemShafi/snan">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://mhazeemshafi.github.io/github-profile-analyzer/">LvlUpGit — GitHub Profile Analyzer</a></h3>
+      <p>A game-inspired interface that retrieves public GitHub profile and repository data and presents it as a profile score, level, rank, and repository overview.</p>
+      <p><sub>React · TypeScript · Vite · Tailwind CSS · GitHub REST API</sub></p>
+      <a href="https://mhazeemshafi.github.io/github-profile-analyzer/">Live demo</a> · <a href="https://github.com/MHazeemShafi/github-profile-analyzer">Repository</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Project metrics and dashboard figures may be illustrative where noted in the individual project documentation.</sub>
+
+## `02` / Languages & technologies
+
+### Programming languages
+
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
+</div>
+
+### Frameworks, libraries & browser APIs
+
+<div>
+  <img src="https://img.shields.io/badge/React-17212A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-17212A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-17212A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Canvas_API-17212A?style=flat-square&logo=html5&logoColor=E34F26" alt="Canvas API"/>
+  <img src="https://img.shields.io/badge/SVG-17212A?style=flat-square&logo=svg&logoColor=FFB13B" alt="SVG"/>
+  <img src="https://img.shields.io/badge/JSZip-17212A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JSZip"/>
+  <img src="https://img.shields.io/badge/GitHub_REST_API-17212A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub REST API"/>
+</div>
+
+### Developer tools & deployment
+
+<div>
+  <img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/npm-222222?style=flat-square&logo=npm&logoColor=CB3837" alt="npm"/>
+  <img src="https://img.shields.io/badge/ESLint-222222?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub Pages"/>
+  <img src="https://img.shields.io/badge/Netlify-222222?style=flat-square&logo=netlify&logoColor=00C7B7" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/VS_Code-222222?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
+</div>
+
+<sub>Stack selection reflects the technologies documented in my projects and the programming languages I work with. Tools listed are not a claim of expert-level proficiency.</sub>
+
+## `03` / What I'm developing
+
+- **Frontend engineering:** building responsive, accessible interfaces with maintainable code.
+- **JavaScript and TypeScript:** improving application logic, state handling, and API-driven experiences.
+- **Programming fundamentals:** strengthening problem-solving with C, Java, and Python.
+- **Machine learning:** exploring the foundations and looking for practical projects to learn through.
+
+## `04` / GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MHazeemshafi&show_icons=true&hide_border=true&bg_color=0B120E&title_color=8BE9A8&text_color=D8E7DC&icon_color=65D98B" alt="GitHub profile statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHazeemshafi&layout=compact&hide_border=true&bg_color=0B120E&title_color=8BE9A8&text_color=D8E7DC" alt="Most-used languages across public repositories"/>
 
 <br/>
 
-<a href="https://mhazeemshafi.github.io/HazeemPortfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050805" alt="Portfolio"/></a>
-<a href="https://github.com/MHazeemshafi"><img src="https://img.shields.io/badge/GITHUB-101510?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/LINKEDIN-101510?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=MHazeemshafi&bg_color=0B120E&color=D8E7DC&line=65D98B&point=8BE9A8&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 
 </div>
 
----
+## `05` / Connect
 
-```text
-root@hazeem:~$ whoami
-```
-
-## Mohammed Hazeem Shafi
-
-I'm a Computer Science student at **Pace Institute of Technology & Sciences** who enjoys turning ideas into working projects. I'm especially interested in web development and machine learning, and I use hands-on projects to keep learning, experimenting, and improving.
-
-```text
-[USER]       MHazeemshafi
-[EDUCATION]  Computer Science | Expected graduation: 2029
-[FOCUS]      Web Development · Programming · Machine Learning
-[APPROACH]   Learn -> Build -> Test -> Improve
-```
-
----
-
-```text
-root@hazeem:~$ ls ./toolkit
-```
-
-## `01` — Tech Stack
+I'm open to connecting with developers, learning from other builders, and exploring internship opportunities where I can contribute while growing my skills.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c&theme=dark" alt="HTML, CSS, JavaScript, Java, Python, and C"/>
+<a href="https://mhazeemshafi.github.io/HazeemPortfolio/"><img src="https://img.shields.io/badge/Explore_my_work-163D28?style=for-the-badge&logo=googlechrome&logoColor=D9FFE5" alt="Explore portfolio"/></a>
+<a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-163D28?style=for-the-badge&logo=linkedin&logoColor=D9FFE5" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D6B3A,55:0B2417,100:07110B&height=100&section=footer" alt="Dark green footer"/>
 
-</div>
-
----
-
-```text
-root@hazeem:~$ find ./projects -maxdepth 1
-```
-
-## `02` — Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` // HazeemPortfolio
-
-**Personal Portfolio**
-
-My personal space to showcase my work, interests, and progress as a developer.
-
-[↗ Live Site](https://mhazeemshafi.github.io/HazeemPortfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-### `02` // Snan Grocery
-
-**Grocery Shopping Website**
-
-A neighborhood grocery website concept with a bilingual English and Arabic experience.
-
-[↗ Live Site](https://snan-grocery.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` // Ec0Watt
-
-**Energy & Sustainability**
-
-A web project focused on energy awareness and sustainability.
-
-[↗ Live Site](https://mhazeemshafi.github.io/Ec0Watt/)
-
-</td>
-<td width="50%" valign="top">
-
-### `04` // GitHub Profile Analyzer
-
-**GitHub Profile Tool**
-
-A web interface for exploring GitHub profile information.
-
-[↗ Live Demo](https://mhazeemshafi.github.io/github-profile-analyzer/) · [Source Code](https://github.com/MHazeemshafi/github-profile-analyzer)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### `05` // PixelShrink
-
-**Image Compression Project**
-
-A web project exploring image compression.
-
-[↗ Live Demo](https://mhazeemshafi.github.io/PixelShrink/) · [Source Code](https://github.com/MHazeemshafi/PixelShrink)
-
-</td>
-</tr>
-</table>
-
----
-
-```text
-root@hazeem:~$ cat ./current_objectives.txt
-```
-
-## `03` — Currently Working On
-
-- Improving my programming fundamentals and problem-solving.
-- Building cleaner, more useful web experiences.
-- Exploring machine learning and practical applications.
-- Turning project ideas into working demos and learning from each iteration.
-
----
-
-```text
-root@hazeem:~$ ./connect.sh
-```
-
-## `04` — Connect
-
-<div align="center">
-
-<a href="https://github.com/MHazeemshafi"><img src="https://img.shields.io/badge/GitHub-050805?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mohammed-hazeem-shafi-b06aa9386/"><img src="https://img.shields.io/badge/LinkedIn-050805?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
-<a href="mailto:stryker461@gmail.com"><img src="https://img.shields.io/badge/Email-050805?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,60:052e16,100:020403&height=100&section=footer" width="100%" alt="Matrix green footer"/>
-
-<sub>LEARN CONSTANTLY. BUILD INTENTIONALLY. KEEP ITERATING.</sub>
+<sub><code>BUILD WITH INTENT. STAY CURIOUS. KEEP IMPROVING.</code></sub>
 
 </div>
