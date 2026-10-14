@@ -55,8 +55,16 @@ MINDSET    : Learn -> Build -> Test -> Improve
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MHazeemShafi/MovieDB">MovieDB</a></h3>
+      <p><strong>Relational database design project</strong></p>
+      <p>A SQL database for organizing movies, directors, actors, genres, and ratings, with sample data and practice queries for joins and aggregation.</p>
+      <p><sub>SQL · MySQL · Relational Database Design</sub></p>
+      <a href="https://github.com/MHazeemShafi/MovieDB">Repository</a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/github-profile-analyzer/">LvlUpGit — GitHub Profile Analyzer</a></h3>
+      <p><strong>Game-inspired developer profile analyzer</strong></p>
       <p>A game-inspired interface that retrieves public GitHub profile and repository data and presents it as a profile score, level, rank, and repository overview.</p>
       <p><sub>React · TypeScript · Vite · Tailwind CSS · GitHub REST API</sub></p>
       <a href="https://mhazeemshafi.github.io/github-profile-analyzer/">Live demo</a> · <a href="https://github.com/MHazeemShafi/github-profile-analyzer">Repository</a>
