@@ -82,6 +82,7 @@ MINDSET    : Learn -> Build -> Test -> Improve
   <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/SQL-222222?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL"/>
   <img src="https://img.shields.io/badge/HTML5-222222?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-222222?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
 </div>
@@ -96,6 +97,12 @@ MINDSET    : Learn -> Build -> Test -> Improve
   <img src="https://img.shields.io/badge/SVG-17212A?style=flat-square&logo=svg&logoColor=FFB13B" alt="SVG"/>
   <img src="https://img.shields.io/badge/JSZip-17212A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JSZip"/>
   <img src="https://img.shields.io/badge/GitHub_REST_API-17212A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub REST API"/>
+</div>
+
+### Databases
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-17212A?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 </div>
 
 ### Developer tools & deployment
