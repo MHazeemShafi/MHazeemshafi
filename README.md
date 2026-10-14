@@ -38,7 +38,6 @@ MINDSET    : Learn -> Build -> Test -> Improve
 <table>
   <tr>
     <td width="50%" valign="top">
-    <td width="50%" valign="top">
       <h3><a href="https://mhazeemshafi.github.io/Ec0Watt/">Ec0Watt</a></h3>
       <p><strong>Energy comparison dashboard</strong></p>
       <p>An interactive demonstration comparing household energy scenarios, estimated costs, consumption, and CO₂ emissions.</p>
